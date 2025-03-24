@@ -1,4 +1,4 @@
-# PumpSwap SDK
+# PumpSwap Sniper bot
 
 A TypeScript SDK for interacting with PumpSwap DEX, featuring a sniper bot and transaction bundler with MEV protection.
 
